@@ -1,0 +1,5 @@
+string = input()
+length = len(string)
+print(length)
+print(string.upper())
+print(string.lower())
