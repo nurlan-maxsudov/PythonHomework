@@ -1,0 +1,17 @@
+2. What is the difference between the continue and break statements in Python?
+
+Continue skips the code below the keyword continue and comes. Break terminates the code immediately
+
+3. Can you explain the difference between for loop and while loop?
+
+They have the same functionality, but for loop is used when we know the number
+of executions, while we use "while" when we need to meet certain conditions, without knowing
+the number of executions
+
+How would you implement a nested for loop system? Provide an example.
+
+for example, if I want to imitate multiplication table:
+
+for i in range(10):
+   for j in range(10):
+      print(i*j)
