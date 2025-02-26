@@ -1,0 +1,7 @@
+Word Count Report
+Total words: 25
+a - 8
+c - 5
+b - 4
+d - 4
+e - 4
