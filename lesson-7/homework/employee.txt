@@ -1,0 +1,2 @@
+240050,Shohiddin,Data analyst,74999
+240442,Nurlan,Data engineer,75000
